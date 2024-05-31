@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\bin\Debug\net6.0\SerializationLibrary.deps.json
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\bin\Debug\net6.0\SerializationLibrary.dll
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\bin\Debug\net6.0\SerializationLibrary.pdb
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.AssemblyInfo.cs
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.dll
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\refint\SerializationLibrary.dll
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.pdb
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\ref\SerializationLibrary.dll

@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\obj\Debug\net6.0\ThemesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\obj\Debug\net6.0\ThemesLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\obj\Debug\net6.0\ThemesLibrary.AssemblyInfo.cs
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\obj\Debug\net6.0\ThemesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\bin\Debug\net6.0\ThemesLibrary.deps.json
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\bin\Debug\net6.0\ThemesLibrary.dll
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\bin\Debug\net6.0\ThemesLibrary.pdb
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\obj\Debug\net6.0\ThemesLibrary.dll
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\obj\Debug\net6.0\refint\ThemesLibrary.dll
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\obj\Debug\net6.0\ThemesLibrary.pdb
+C:\Users\USER\source\repos\WpfApp14\ThemesLibrary\obj\Debug\net6.0\ref\ThemesLibrary.dll
