@@ -63,6 +63,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="MainViewModel.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -95,13 +97,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SerializationLibrary\SerializationLibrary.csproj">
-      <Project>{3d465670-0fdc-44b1-acec-c3ad09149132}</Project>
-      <Name>SerializationLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ThemesLibrary\ThemesLibrary.csproj">
-      <Project>{6d9a11a4-5e9f-45c4-962e-90515781ea66}</Project>
-      <Name>ThemesLibrary</Name>
+    <ProjectReference Include="..\SerializationLibrary1\SerializationLibrary1.csproj">
+      <Project>{e7826948-478a-4334-8b84-d7fdc0fdbf2e}</Project>
+      <Name>SerializationLibrary1</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

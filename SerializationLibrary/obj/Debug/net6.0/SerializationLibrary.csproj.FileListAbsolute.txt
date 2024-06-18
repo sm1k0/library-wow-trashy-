@@ -9,3 +9,4 @@ C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\Serial
 C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\refint\SerializationLibrary.dll
 C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.pdb
 C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\ref\SerializationLibrary.dll
+C:\Users\USER\source\repos\WpfApp14\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.sourcelink.json

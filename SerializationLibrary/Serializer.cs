@@ -1,27 +1,23 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;
-using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 namespace SerializationLibrary
 {
-    public class Serializer
+    public static class Serializer
     {
-        public async Task SerializeAsync<T>(T obj, string filePath)
+        public static void Serialize<T>(T data, string filePath)
         {
-            using (FileStream fs = new FileStream(filePath, FileMode.Create))
-            {
-                await JsonSerializer.SerializeAsync(fs, obj);
-            }
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            var json = JsonSerializer.Serialize(data, options);
+            File.WriteAllText(filePath, json);
         }
 
-        public async Task<T> DeserializeAsync<T>(string filePath)
+        public static T Deserialize<T>(string filePath)
         {
-            using (FileStream fs = new FileStream(filePath, FileMode.Open))
-            {
-                return await JsonSerializer.DeserializeAsync<T>(fs);
-            }
+            var json = File.ReadAllText(filePath);
+            return JsonSerializer.Deserialize<T>(json);
         }
     }
 }
-    

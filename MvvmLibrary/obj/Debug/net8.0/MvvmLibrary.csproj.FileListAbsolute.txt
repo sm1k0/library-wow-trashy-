@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\WpfApp14\MvvmLibrary\obj\Debug\net8.0\MvvmLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\WpfApp14\MvvmLibrary\obj\Debug\net8.0\MvvmLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WpfApp14\MvvmLibrary\obj\Debug\net8.0\MvvmLibrary.AssemblyInfo.cs
+C:\Users\USER\source\repos\WpfApp14\MvvmLibrary\obj\Debug\net8.0\MvvmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WpfApp14\MvvmLibrary\obj\Debug\net8.0\MvvmLibrary.sourcelink.json
